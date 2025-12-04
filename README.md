@@ -1,6 +1,6 @@
 # Cloud Computing Activities
 
-This repository contains hands-on cloud computing tasks completed during coursework.  
+This repository contains hands-on cloud computing tasks completed during cloud projects.  
 Activities include:
 
 - Setting up and managing Azure resources 
